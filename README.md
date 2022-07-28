@@ -1,4 +1,4 @@
-**Masoniteorm issue #777 (https://github.com/MasoniteFramework/orm/issues/777) POC
+**Masoniteorm issue #777 (https://github.com/MasoniteFramework/orm/issues/777) POC**
 
 run.sh results
 
